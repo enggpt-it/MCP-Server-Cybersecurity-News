@@ -1,6 +1,6 @@
 # MCP Server Cybersecurity News
 
-Implementazione di un server MCP integrabile con Claude Desktop che consente di accedere alle ultime notizie sulla cybersecurity da vari siti web. Il server espone uno strumento (`get_news`) che può essere utilizzato per recuperare contenuti da fonti di notizie specificate.
+Implementazione di un server MCP integrabile con Claude Desktop che consente di accedere alle ultime notizie sulla cybersecurity da vari siti web. Il server espone uno strumento (`get_news`) che può essere utilizzato per recuperare contenuti da fonti di notizie specificate. Puoi consultare l'articolo relativo al seguente [link](https://www.enggpt.it//server-mcp-python-tutorial/)
 
 ## Caratteristiche
 
