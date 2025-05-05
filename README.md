@@ -1,6 +1,6 @@
 # MCP Server Cybersecurity News
 
-Implementazione di un server MCP integrabile con Claude Desktop che consente di accedere alle ultime notizie sulla cybersecurity da vari siti web. Il server espone uno strumento (`get_news`) che può essere utilizzato per recuperare contenuti da fonti di notizie specificate. Puoi consultare l'articolo relativo al seguente [link](https://www.enggpt.it/server-mcp-python-tutorial/).
+Implementazione di un server MCP integrabile con Claude Desktop che consente di accedere alle ultime notizie sulla cybersecurity da vari siti web. Il server espone uno strumento (`get_news`) che può essere utilizzato per recuperare contenuti da fonti di notizie specificate. Puoi consultare l'articolo relativo al seguente [link](https://www.forgeai.it/server-mcp-python-tutorial/).
 
 ## Caratteristiche
 
@@ -31,7 +31,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 ### 2. Clonare il repository
 
 ```bash
-git clone https://github.com/enggpt-it/MCP-Server-Cybersecurity-News.git
+git clone https://github.com/forgeai-it/MCP-Server-Cybersecurity-News.git
 cd MCP-Server-Cybersecurity-News
 ```
 
